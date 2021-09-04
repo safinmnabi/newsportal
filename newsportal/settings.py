@@ -86,13 +86,6 @@ DATABASES = {
     }    
 }
 
-# SENDGRID_API_KEY = os.getenv('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')
-
-# EMAIL_HOST = 'smtp.sendgrid.net'
-# EMAIL_HOST_USER = 'apikey' # this is exactly the value 'apikey'
-# EMAIL_HOST_PASSWORD = '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'
-# EMAIL_PORT = 587
-# EMAIL_USE_TLS = True
 
 
 
